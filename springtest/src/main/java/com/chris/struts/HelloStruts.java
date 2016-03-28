@@ -24,7 +24,7 @@ public class HelloStruts extends ActionSupport{
     }
 
     public String test(){
-        setMsg("李春林是我妈,xixi");
+        setMsg("lmz是我老婆,xixi");
         return SUCCESS;
     }
 }
